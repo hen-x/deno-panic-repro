@@ -4,4 +4,4 @@ This is a minimal repro of a panic under deno v1.24.0.
 
 To produce the panic:
 
-    deno repro.ts
+    deno check repro.ts
