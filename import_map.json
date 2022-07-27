@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "//something": "./any-path"
+  }
+}
